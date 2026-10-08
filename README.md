@@ -22,8 +22,8 @@ source /path/to/geant4/bin/geant4.sh
 ## How to build
 
 ```shell
-git clone git@github.com:hyptpc/KVC_optical_simlation.git
-cd KVC_optical_simlation
+git clone git@github.com:hyptpc/KVC_optical_simulation.git
+cd KVC_optical_simulation
 ./build.sh
 ```
 
